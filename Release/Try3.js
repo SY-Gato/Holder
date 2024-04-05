@@ -7,4 +7,4 @@ class goofyahh {
   }
 }
 
-export default goofyahh;
+window.goofyahh = goofyahh;
