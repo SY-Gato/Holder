@@ -299,3 +299,4 @@ var LZString = (function () {
     };
     return i;
   })();
+window.LZString = LZString;
